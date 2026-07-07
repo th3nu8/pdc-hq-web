@@ -545,9 +545,9 @@ button {
 
 .division-card-logo,
 .division-card-logo-fallback {
-  width: 56px;
-  height: 56px;
-  border-radius: 14px;
+  width: 80px;
+  height: 80px;
+  border-radius: 16px;
   object-fit: contain;
   align-self: start;
 }
@@ -558,7 +558,7 @@ button {
   justify-content: center;
   background: rgba(196, 30, 30, 0.12);
   color: var(--red-bright);
-  font-size: 0.72rem;
+  font-size: 0.9rem;
   font-weight: 800;
   letter-spacing: 0.05em;
 }
@@ -835,10 +835,10 @@ button {
 
 .division-preview-logo,
 .division-logo-fallback {
-  width: 52px;
-  height: 52px;
+  width: 76px;
+  height: 76px;
   margin-bottom: 0.85rem;
-  border-radius: 12px;
+  border-radius: 14px;
   object-fit: contain;
 }
 
@@ -848,7 +848,7 @@ button {
   justify-content: center;
   background: rgba(196, 30, 30, 0.12);
   color: var(--red-bright);
-  font-size: 0.72rem;
+  font-size: 0.85rem;
   font-weight: 800;
   letter-spacing: 0.05em;
 }
@@ -861,10 +861,10 @@ button {
 
 .division-detail-logo,
 .division-detail-logo-fallback {
-  width: 88px;
-  height: 88px;
+  width: 132px;
+  height: 132px;
   margin: 0 auto 1rem;
-  border-radius: 18px;
+  border-radius: 22px;
   object-fit: contain;
   filter: drop-shadow(0 0 24px var(--red-glow));
 }
@@ -875,7 +875,7 @@ button {
   justify-content: center;
   background: rgba(196, 30, 30, 0.14);
   color: var(--red-bright);
-  font-size: 1rem;
+  font-size: 1.4rem;
   font-weight: 800;
   letter-spacing: 0.06em;
 }
